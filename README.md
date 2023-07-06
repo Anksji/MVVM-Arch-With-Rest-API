@@ -8,10 +8,12 @@
 This is Recipe App, an Android project in Java that follows MVVM Architecture. Using Retrofit library to make Api Request. This project shows the list of recipes and also implemented the search functionality for searching different recipes.
 
 
+##
+##
 
 MIT License
 
-Copyright (c) 2023 AD Raj
+Copyright (c) 2023 Ankit Dwivedi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
